@@ -3,7 +3,7 @@ Creating prediction models for individual outcome of psychosis (GROUP study)
 
 These scripts hasve been used to train and test the outcome prediction models for our study:
 
-"Individualized prediction of three- and six-year outcomes of psychosis in a longitudinal multicenter study: a machine learning approach", by De Nijs et al (in revision, November 2020).
+"Individualized prediction of three- and six-year outcomes of psychosis in a longitudinal multicenter study: a machine learning approach", by De Nijs et al (in press, NPJ Schizophrenia, June 2021).
 
 We refer to that paper for more detailed information about how these models were built.
 
